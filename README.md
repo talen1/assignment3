@@ -1,4 +1,4 @@
-# CS-303 Assignment 3
+# Assignment 3
 
 This project implements a Queue data structure using a linked list, performs a recursive linear search for the last occurrence of an element in a vector, and sorts integers in a linked list using insertion sort.
 
